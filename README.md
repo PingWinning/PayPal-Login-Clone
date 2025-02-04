@@ -1,6 +1,7 @@
 # PayPal-Login-Clone
 
-![PayPal Login Clone](https://github.com/user-attachments/assets/a5cd6e5a-0ba6-41e7-8549-4e159bedd61e)
+![Image](https://github.com/user-attachments/assets/5fbd5f23-943b-4629-a68e-dbac8dd1428f)
+![Image](https://github.com/user-attachments/assets/7b5be448-6fe2-4074-b14b-ca77ff89172a)
 
 ## Introduction
 This project is a **fully responsive** and **pixel-perfect** clone of the PayPal login page, built using **HTML, Tailwind CSS, and JavaScript**. It closely replicates the original PayPal UI, including interactive elements such as floating input labels, hover effects, and proper form validation.
@@ -39,12 +40,10 @@ xdg-open index.html  # Linux
 ```
 
 ## Live Demo
-🎥 **[Live Demo](https://github.com/user-attachments/assets/a5cd6e5a-0ba6-41e7-8549-4e159bedd61e)** (Click to play video)
+🎥 
+https://github.com/user-attachments/assets/a5cd6e5a-0ba6-41e7-8549-4e159bedd61e
 
-## Screenshots
-| Desktop View | Mobile View |
-|-------------|-------------|
-| ![Desktop Screenshot](https://github.com/user-attachments/assets/a5cd6e5a-0ba6-41e7-8549-4e159bedd61e) | ![Mobile Screenshot](https://github.com/user-attachments/assets/YNdHxz2xMz6kLsNUwgpd9S) |
+** (Click to play video) **
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance the project:

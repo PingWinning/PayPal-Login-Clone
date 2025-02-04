@@ -40,10 +40,11 @@ xdg-open index.html  # Linux
 ```
 
 ## Live Demo
-🎥 
-https://github.com/user-attachments/assets/a5cd6e5a-0ba6-41e7-8549-4e159bedd61e
+🎥** (Click to play video) **🎥
 
-** (Click to play video) **
+https://github.com/user-attachments/assets/6feff4f1-fb76-4163-8b31-71f33fca456e
+
+
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance the project:

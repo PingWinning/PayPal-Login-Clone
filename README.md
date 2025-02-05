@@ -1,4 +1,4 @@
-# PayPal-Login-Clonen 1:1
+# PayPal-Login-Clone 1:1
 
 ![Image](https://github.com/user-attachments/assets/5fbd5f23-943b-4629-a68e-dbac8dd1428f)
 ![Image](https://github.com/user-attachments/assets/7b5be448-6fe2-4074-b14b-ca77ff89172a)
